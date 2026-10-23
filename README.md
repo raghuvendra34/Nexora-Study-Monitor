@@ -4,8 +4,6 @@ Nexora is an AI-powered study assistant built with **LangGraph** and the **Model
 
 **Demo video:** [Watch Nexora in action](https://drive.google.com/file/d/1NAQ_g2Syy-_bCz_trWXMIASu1ZrHS6er/view?usp=drivesdk) — shows both the local notes/tasks server and the remote study-resources server working end-to-end.
 
-**Live demo:** [your Streamlit link here] *(see "Deployment & Limitations" below for what does and doesn't work on the hosted version)*
-
 ---
 
 ## What it does
